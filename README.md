@@ -120,7 +120,7 @@ This dashboard helps stakeholders:
 
 ## 📷 Dashboard Preview
 
-*(Add your screenshot here)*
+<img width="1355" height="742" alt="Screenshot 2026-04-23 031537" src="https://github.com/user-attachments/assets/b0c91f92-de43-4ff3-8fff-f040d408bb51" />
 
 ---
 
