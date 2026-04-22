@@ -58,10 +58,14 @@ The dashboard provides insights into **revenue trends, category performance, del
 
 ## 🧠 Key DAX Measures
 
-### Revenue
+### Revenue(Lakh)
 
 ```DAX
-Revenue = SUM(Sales[Amount])
+Revenue (Lakh) = 
+FORMAT(
+    DIVIDE(SUM('blinkit_dataset'[final_price]), 100000),
+    "₹0.0"
+) & "L"
 ```
 
 ### MoM Growth %
