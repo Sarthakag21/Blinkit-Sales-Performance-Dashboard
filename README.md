@@ -142,6 +142,4 @@ This project demonstrates strong capabilities in:
 * DAX-based calculations
 * Dashboard storytelling
 
-It reflects practical skills required for a **Data Analyst role**.
-
 ---
